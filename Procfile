@@ -1,0 +1,1 @@
+web: gunicorn Acha.wsgi --log-file - 
